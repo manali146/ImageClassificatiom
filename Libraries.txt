@@ -1,9 +1,9 @@
 Check the Libraries version compatible with this project.
 1. numpy==1.18.5
 2. matplotlib==3.2.2
-3. pyngrok==4.1.1
-4. bing_image_downloader==1.0.4
-5. scikit_image==0.16.2
-6. scikit-learn==0.22.2.post1
-7. Pillow==8.0.1
-8. streamlit==0.70.0
+3. bing_image_downloader==1.1.2
+4. scikit_image==0.19.3
+5. scikit-learn==0.22.2.post1
+6. Pillow==8.0.1
+7. streamlit==1.15.2
+8. pyngrok==5.2.1
